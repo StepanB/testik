@@ -10,7 +10,10 @@
     </parent>
     <groupId>cz.istep</groupId>
     <artifactId>java-test</artifactId>
-    <version>0.0.9</version>
+
+    <version>0.0.2-DEVELOP</version>
+
+
     <name>java-test</name>
     <description>Simple test for Java developers in iStep.</description>
 
